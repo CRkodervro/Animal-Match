@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=2]
+
+[ext_resource path="res://fonts/font.tres" type="DynamicFont" id=1]
+
+[resource]
+Label/colors/font_color = Color( 0.704361, 0.871094, 0.80493, 1 )
+Label/fonts/font = ExtResource( 1 )
